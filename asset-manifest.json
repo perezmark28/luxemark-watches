@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/luxemark-watches/static/css/main.5a6485d6.css",
+    "main.js": "/luxemark-watches/static/js/main.1676aba9.js",
+    "static/media/logo.svg": "/luxemark-watches/static/media/logo.38cde72a44963ddc9931cb1035555286.svg",
+    "index.html": "/luxemark-watches/index.html",
+    "main.5a6485d6.css.map": "/luxemark-watches/static/css/main.5a6485d6.css.map",
+    "main.1676aba9.js.map": "/luxemark-watches/static/js/main.1676aba9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a6485d6.css",
+    "static/js/main.1676aba9.js"
+  ]
+}
